@@ -1,90 +1,20 @@
-# 💼 Shrutika Patil | Portfolio Website
+# 💼 Shrutika Patil | Full Stack Developer Portfolio
 
-Welcome to my portfolio site built with **React**, **TailwindCSS**, **Framer Motion**, and **AOS**.  
-This project showcases my skills, projects, resume, and contact information in a modern and responsive layout.
+🚀 Live Site: [https://shrutikapatil9.github.io/Portfolio](https://shrutikapatil9.github.io/Portfolio)
 
-🔗 Live Site: [https://shrutikapatil9.github.io/Portfolio](https://shrutikapatil9.github.io/Portfolio)
+🛠 Built With:
+- React + TailwindCSS
+- AOS scroll animations
+- GitHub Pages deployment
+- Responsive design with dark mode
 
----
+📸 Projects:
+- 🛒 E-Commerce App
+- 📱 Responsive Landing Page
 
-## 🚀 Features
+📄 Resume: [Download PDF](./public/Shrutika_Patil_Resume.pdf)
 
-- 🌗 Dark & Light Mode
-- 🎯 Scroll animations (AOS)
-- ✨ Animated intro heading
-- 🔁 Scroll to Top button
-- ⏳ Preloader on page load
-- 💻 Reusable ProjectCard components
-- 📱 Fully responsive design
-
----
-
-## 🛠️ Tech Stack
-
-- React 19
-- TailwindCSS
-- Framer Motion
-- AOS (Animate on Scroll)
-- GitHub Pages for deployment
-
----
-
-
-## 📄 Resume
-
-[Download My Resume](./public/Shrutika_Patil_Resume.pdf)
-
----
-
-## 🤝 Connect with me
-
-- [LinkedIn](https://linkedin.com/in/shrutika-patil)
-- [GitHub](https://github.com/shrutikapatil9)
-- [Email](mailto:shrutika09.patil@gmail.com)
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
+📬 Contact: shrutika09.patil@gmail.com | [LinkedIn](https://linkedin.com/in/shrutika-patil)
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
