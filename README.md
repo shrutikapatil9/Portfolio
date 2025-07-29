@@ -1,23 +1,46 @@
-# Getting Started with Create React App
+# 💼 Shrutika Patil | Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio site built with **React**, **TailwindCSS**, **Framer Motion**, and **AOS**.  
+This project showcases my skills, projects, resume, and contact information in a modern and responsive layout.
 
-## Available Scripts
+🔗 Live Site: [https://shrutikapatil9.github.io/Portfolio](https://shrutikapatil9.github.io/Portfolio)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🌗 Dark & Light Mode
+- 🎯 Scroll animations (AOS)
+- ✨ Animated intro heading
+- 🔁 Scroll to Top button
+- ⏳ Preloader on page load
+- 💻 Reusable ProjectCard components
+- 📱 Fully responsive design
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React 19
+- TailwindCSS
+- Framer Motion
+- AOS (Animate on Scroll)
+- GitHub Pages for deployment
+
+---
+
+
+## 📄 Resume
+
+[Download My Resume](./public/Shrutika_Patil_Resume.pdf)
+
+---
+
+## 🤝 Connect with me
+
+- [LinkedIn](https://linkedin.com/in/shrutika-patil)
+- [GitHub](https://github.com/shrutikapatil9)
+- [Email](mailto:shrutika09.patil@gmail.com)
 
 ### `npm run build`
 
